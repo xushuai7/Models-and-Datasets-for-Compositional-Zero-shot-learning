@@ -26,7 +26,7 @@ All datasets follow the standard splits proposed by Purushwalkam et al..
 
 ---
 
-## 2. Closed-World CZSL Models
+## 2. CZSL Models
 
 The following models are included in our closed-world CZSL comparison (see the paper’s table for detailed S/U/H/AUC metrics on each dataset).
 
