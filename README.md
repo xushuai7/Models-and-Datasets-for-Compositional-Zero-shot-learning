@@ -6,9 +6,10 @@ This repository summarizes the benchmark datasets and CZSL models used in our pa
 
 ## 1. Datasets
 
-We evaluate models on three standard CZSL benchmarks.
-|Y_s| and |Y_u| denote the numbers of seen and unseen attribute–object compositions, respectively, and |X| denotes the number of images in each split.
+We evaluate models on three standard CZSL benchmarks.  
+|Y<sub>s</sub>| and |Y<sub>u</sub>| denote the numbers of seen and unseen attribute–object compositions, respectively,  and |X| denotes the number of images in each split.  
 All datasets follow the standard splits proposed by Purushwalkam et al.
+
 
 
 ### 1.1 Dataset Statistics
@@ -48,9 +49,9 @@ The following models are included in our closed-world CZSL comparison (see the p
 | ADE      | CVPR 2023             | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html) | [Code](https://github.com/haoosz/ade-czsl) |
 | CANet    | CVPR 2023             | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html) | [Code](https://github.com/zhangyongshun/CA-Net) |
 | DFSP     | CVPR 2023             | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html) | [Code](https://github.com/Forest-art/DFSP) |
-| HPL      | IJCAI 2023            | [Paper](https://www.ijcai.org/proceedings/2023/) | Code (refer to paper) |
+| HPL      | IJCAI 2023            | [Paper](https://www.ijcai.org/proceedings/2023/0163.pdf) | [Code](https://github.com/ans92/Compositional-Zero-Shot-Learning) |
 | Troika   | CVPR 2024             | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Troika_Multi-Path_Cross-Modal_Traction_for_Compositional_Zero-Shot_Learning_CVPR_2024_paper.html) | [Code](https://github.com/siteng-huang/Troika) |
-| CDS-CZSL | CVPR 2024             | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Context-based_and_Diversity-driven_Specificity_in_Compositional_Zero-Shot_Learning_CVPR_2024_paper.pdf) | Code (https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) |
+| CDS-CZSL | CVPR 2024             | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Context-based_and_Diversity-driven_Specificity_in_Compositional_Zero-Shot_Learning_CVPR_2024_paper.pdf) | [Code](https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) |
 | PLID     | ECCV 2024             | [Paper](https://arxiv.org/abs/2305.14428) | [Code](https://github.com/Cogito2012/PLID) |
 | RA       | AAAI 2024             | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28043/28096) | [Code](https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) |
 | ProLT    | AAAI 2024             | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28026/28065) | [Code](https://github.com/ans92/Compositional-Zero-Shot-Learning) |
