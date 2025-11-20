@@ -7,8 +7,8 @@ This repository summarizes the benchmark datasets and CZSL models used in our pa
 ## 1. Datasets
 
 We evaluate models on three standard CZSL benchmarks.  
-\(|Y_s|\) and \(|Y_u|\) denote the numbers of seen and unseen attribute–object compositions, respectively, and \(|X|\) denotes the number of images in each split.  
-All datasets follow the standard splits proposed by Purushwalkam et al. (TMN).
+\(|Y<sub>s|\) and \(|Y<sub>u|\) denote the numbers of seen and unseen attribute–object compositions, respectively, and \(|X|\) denotes the number of images in each split.  
+All datasets follow the standard splits proposed by Purushwalkam et al..
 
 ### 1.1 Dataset Statistics
 
