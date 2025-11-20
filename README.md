@@ -50,12 +50,12 @@ The following models are included in our closed-world CZSL comparison (see the p
 | DFSP     | CVPR 2023             | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html) | [Code](https://github.com/Forest-art/DFSP) |
 | HPL      | IJCAI 2023            | [Paper](https://www.ijcai.org/proceedings/2023/) | Code (refer to paper) |
 | Troika   | CVPR 2024             | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Troika_Multi-Path_Cross-Modal_Traction_for_Compositional_Zero-Shot_Learning_CVPR_2024_paper.html) | [Code](https://github.com/siteng-huang/Troika) |
-| CDS-CZSL | CVPR 2024             | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Context-Based_and_Diversity-Driven_Specificity_in_Compositional_Zero-Shot_Learning_CVPR_2024_paper.html) | Code (official link TBD) |
-| PLID     | ECCV 2024             | [Paper](official ECCV 2024 paper link) | [Code](official PLID GitHub link) |
-| RA       | AAAI 2024             | [Paper](official AAAI 2024 paper link) | [Code](official RA GitHub link) |
-| ProLT    | AAAI 2024             | [Paper](official AAAI 2024 paper link) | [Code](official ProLT GitHub link) |
-| MSCI     | arXiv 2025            | [Paper](https://arxiv.org/abs/2505.10289) | [Code](https://github.com/ltpwy/MSCI) |
-| TSCA     | arXiv 2024            | [Paper](https://arxiv.org/abs/2408.08703) | [Code](official TSCA GitHub link) |
+| CDS-CZSL | CVPR 2024             | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Context-based_and_Diversity-driven_Specificity_in_Compositional_Zero-Shot_Learning_CVPR_2024_paper.pdf) | Code (https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) |
+| PLID     | ECCV 2024             | [Paper](https://arxiv.org/abs/2305.14428) | [Code](https://github.com/Cogito2012/PLID) |
+| RA       | AAAI 2024             | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28043/28096) | [Code](https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) |
+| ProLT    | AAAI 2024             | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28026/28065) | [Code](https://github.com/ans92/Compositional-Zero-Shot-Learning) |
+| MSCI     | IJCAI 2025            | [Paper](https://arxiv.org/abs/2505.10289) | [Code](https://github.com/ltpwy/MSCI) |
+| TSCA     | IJCAI 2025            | [Paper](https://arxiv.org/abs/2408.08703) | [Code](https://github.com/keepgoingjkg) |
 
 
 
